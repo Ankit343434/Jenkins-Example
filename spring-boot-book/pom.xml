@@ -53,11 +53,7 @@
     </dependency>
 
     
-    <dependency>
-      <groupId>sample</groupId>
-      <artifactId>sample-spring-boot</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
-    </dependency>
+   
 
     <!-- Testing -->
     <dependency>
